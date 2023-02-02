@@ -1,7 +1,6 @@
 
-
-
 <h1 align="center">
+  <img src="https://user-images.githubusercontent.com/114346679/216282361-ea758c05-756a-48a0-8077-70b5a230f49c.png" width="250" height="166">
   <br>
   Project Name: Pulse Fit
 </h1>
@@ -9,7 +8,7 @@
 <div align="center">
    <strong>Pulse Fit</strong> - One stop destination for all your fitness needs<br>
   CoC Inheritance 2022 || Frontend Warriors <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+
 </div>
 <hr>
 
@@ -39,7 +38,7 @@
       The <strong>Pulse-Fit</strong> is a one stop destination for all ypur fitness related needs
     <br>
     <h3>Access Level</h3>   
-    The React based web app has one access levels :
+    The React based web app has one access level
     <h4>Key Features</h4>
     <p>
     <ul>
@@ -78,8 +77,8 @@ Add any more links/resources you used for your project
 Mention all languages/libraries/frameworks used in your project **domain-wise**   
 You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
-- **Server:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- **Client:**   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- **Server:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- **Client:**   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ## 📈Progress
@@ -159,6 +158,76 @@ git clone https://github.com/Bruhbytes/Frontend-Warriors.git
 >Steps to run your project once its setup. 
 - login/Sign-up: Login to the website using your credentials.If you are a new user u can sign-up using your e-mail id and set up a secure password (for ex. rohan@gmail.com ,password:Rohan@12345)
 - All the features are listed on the navbar can be used
+    <h4>BMI</h4>
+    <p>
+    <ul>
+            <li>click the BMI tab on navbar you will be directed to a page where at the bottom you will find a button "Calculate BMI" click to find your BMI </li>
+            <li>Fill the form and click submit</li>
+            <li>Your BMI along with suggested diet plans and videos will be displayed  </li>
+    </ul>
+    </p>
+    <h4>heart</h4>
+    <p>
+    <ul>
+            <li>click the heart tab on navbar you will be directed to a form </li>
+            <li>Fill the form and click submit</li>
+            <li>Your heart health will be displayed  </li>
+    </ul>
+    </p>
+    <h4>findNearbyGyms</h4>
+    <p>
+    <ul>
+            <li>click the findNearbyGym tab on navbar you will be directed to a page </li>
+            <li>click on the compass at the top </li>
+            <li>Gyms nearby you will be visible on the map</li>
+    </ul>
+    </p>
+    <h4>Community</h4>
+    <p>
+    <ul>
+            <li>click the community tab on navbar you will be directed to the community page </li>
+            <li>you will see messages from other users of our website</li>
+            <li>To post on the community page you will see a box at the bottom type your message there and click submit </li>
+    </ul>
+    </p>
+    <h4>Appointment</h4>
+    <p>
+    <ul>
+            <li>click the Appointment tab on navbar you will be directed to a form </li>
+            <li>fill in the details </li>
+            <li>choose your slot</li>
+            <li>you cannot book a slot for the next 24hrs if it is already booked by someone </li>  
+            <li>slots get vacant everyday</li>
+            <li>Thus, one can book a slot for the coming day only</li>       
+    </ul>
+    </p>
+    <h4>Shop</h4>
+    <p>
+    <ul>
+            <li>click the Shop on navbar you will be directed to our shop </li>
+            <li> the prodiucts are divided into three categories :clothes,equipments and suppliments </li>
+            <li> click on shop now on there you will be directed to pages thus products  are filtered </li>
+            <li>below these categories you will see popular products</li>  
+            <li>click on the middle icon of any product you wish to view ,which is visible on hovering over the product </li>
+            <li>you can now see the product choose quantity of the product you wish to buy</li>
+            <li>click on add to cart button</li>
+            <li>On the top right corner you will see a cart icon click on it to view your cart</li>
+            <li>Fill in your address and phone no. oh the right hand side of the page and click submit</li>
+            <li>Your order is placed</li>
+             
+    </ul>
+    </p>
+    <h4>Contact Us</h4>
+    <p>
+    <ul>
+            <li>click the contactus tab on navbar you will be directed to a form </li>
+            <li>fill in the details </li>
+            <li>we will recieve your feedback/message</li>
+            <li>you will recieve a confirmation email</li>  
+
+    </ul>
+    </p>
+ 
 
 ## 👨‍💻Team Members
 
@@ -172,11 +241,28 @@ git clone https://github.com/Bruhbytes/Frontend-Warriors.git
  - [Devansh Joshi](https://github.com/devdev29)
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
+- Home page preview:
+![home1 (1)](https://user-images.githubusercontent.com/114346679/216269707-9257cfa4-4386-40a9-be32-29beb8a72750.png)
 
-You'll have to link the screenshots from your drive folder here.
+- login/sign-up![login](https://user-images.githubusercontent.com/114346679/216272704-6d2777ec-95cd-4fe8-a2fc-fc4480737de3.png)
 
-![Screenshot alt text](https://drive.google.com/file/d/1yTf6nwxxz3pXxGmDx2Ytjx9bjaKpS5B-/view?usp=share_link "Here is a screenshot")
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+- Heart disease predictor
+
+![predictor](https://user-images.githubusercontent.com/114346679/216271912-58bc2427-4aff-4381-937d-77fc00c561f7.png)
+
+- BMI calculator ![bmi form](https://user-images.githubusercontent.com/114346679/216272038-101f7f19-047a-4d40-8410-552c69de313c.png)
+
+- shop
+![shop home and filters](https://user-images.githubusercontent.com/114346679/216272855-d87dd683-c683-4f82-910e-9bcee09fcd94.png)
+![shop-cart](https://user-images.githubusercontent.com/114346679/216272879-0139ea81-e07e-4a37-ae79-a5fcf710fe7a.png)
+
+- Appointment:![book Appointment](https://user-images.githubusercontent.com/114346679/216272984-b1fa20cc-9999-4c03-8b68-946ab04e1d91.png)
+
+- find nearby gyms:
+![Map](https://user-images.githubusercontent.com/114346679/216273178-308abca4-a359-4cda-9ac0-f9bcebc3479e.png)
+- community:
+
+![community page](https://user-images.githubusercontent.com/114346679/216273261-1b517192-35b3-4387-b6cc-5afc7874d6f4.png)
+- contact us![contact us](https://user-images.githubusercontent.com/114346679/216273351-5a938f43-d27b-4e26-80ba-7bcfa0593589.png)
+
