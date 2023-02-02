@@ -64,11 +64,11 @@
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/rohanfatehchandka/Inheritance)
-- [Demo Video]()
+- [Demo Video](https://drive.google.com/file/d/1bnKnUom8AqrgfPURdQmmXl5GzxgywENu/view?usp=sharing)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1hZTCHkw_yaMnJ_c1jsrRcVmwoz0eGZFA?usp=sharing)
 - [Hosted Website Link](https://frontend-fw.vercel.app/)
 
-- [Hosted Backend Link]()
+
 
 Add any more links/resources you used for your project
 
